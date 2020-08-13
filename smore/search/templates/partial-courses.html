@@ -1,0 +1,10 @@
+{# partial-courses.html #}
+{% if courses %}
+  <ul>
+  {% for course in courses %}
+    <li>{{ course.course_code }}</li>
+  {% endfor %}
+  </ul>
+{% else %}
+  <p>No course found.</p>
+{% endif %}

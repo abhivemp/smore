@@ -1,0 +1,784 @@
+class_id,course_code,professor,day,time
+40002,ACC 201,"Domingo,Maria  ",Tues Fri,8:00 AM
+40016,ACC 201,"Rene,Wynette  ",Mon Wed ,5:30 PM
+40009,ACC 201,"Bennett,Terrence  ",Mon Thurs ,8:00 AM
+40018,ACC 201,"Ahlawat,Sunita  ",Mon Thurs ,9:30 AM
+40227,ACC 201,"Padre,Marc  ",Mon Thurs ,2:00 PM
+40003,ACC 201,"Domingo,Maria  ",Tues Fri,2:00 PM
+40011,ACC 202,"Yuschak,Marjorie  ",Tues Fri,12:30 PM
+40012,ACC 202,"Yuschak,Marjorie  ",Tues Fri,9:30 AM
+40014,ACC 202,"Ryan,Christina  ",Tues Fri,8:00 AM
+40023,ACC 202,"Ahlawat,Sunita  ",Mon Thurs ,2:00 PM
+40024,ACC 202,"Ryan,Christina  ",Tues Fri,11:00 AM
+40229,ACC 202,"Ahlawat,Sunita  ",Mon Thurs ,8:00 AM
+40004,ACC 211,"Miller,Gerald  ",Mon Thurs ,9:30 AM
+40005,ACC 211,"Miller,Gerald  ",Mon Thurs ,11:00 AM
+40021,ACC 271,"Raquet,Sean  ",Tues ,5:30 PM
+42423,ACC 302,"Shahid,Abdus  ",Mon Thurs ,11:00 AM
+40205,ACC 302,"Shahid,Abdus  ",Mon Thurs ,12:30 PM
+40206,ACC 302,"Shahid,Abdus  ",Thurs ,3:30 PM
+40019,ACC 311,"Chiang,Bih-Horng  ",Thurs ,9:30 AM
+40207,ACC 311,"Chiang,Bih-Horng  ",Mon Thurs ,2:00 PM
+40020,ACC 321,"Sun,Ting  ",Mon Thurs ,9:30 AM
+40010,ACC 321,"Sun,Ting  ",Mon Thurs ,12:30 PM
+40015,ACC 321,"Sun,Ting  ",Mon Thurs ,3:30 PM
+40006,ACC 498,"Nouri,Hossein  ",Tues ,5:30 PM
+40007,ACC 498,"Miller,Gerald  ",Mon Thurs ,2:00 PM
+41703,BIO 104,"Wund,Matthew  ",Tues Fri,9:30 AM
+41704,BIO 104,"Wund,Matthew  ",Tues ,2:00 PM
+41705,BIO 104,"Wund,Matthew  ",Fri,2:00 PM
+41668,BIO 142,"Uzwiak,Anthony  ",Mon Thurs ,2:00 PM
+41669,BIO 142,"Uzwiak,Anthony  ",Tues ,2:00 PM
+41670,BIO 142,"Uzwiak,Anthony  ",Tues ,5:30 PM
+42250,BIO 142,"Uzwiak,Anthony  ",Mon Thurs ,3:30 PM
+42251,BIO 142,"Pepe,Joseph  ",Wed ,2:00 PM
+42252,BIO 142,"Pepe,Joseph  ",Wed ,5:30 PM
+41671,BIO 144,"King,Rita  ",Mon Wed ,5:30 PM
+41672,BIO 144,"King,Rita  ",Mon ,7:00 PM
+41712,BIO 144,"King,Rita  ",Wed ,7:00 PM
+41706,BIO 144,"Crane,Sharron  ",Tues Thurs ,5:30 PM
+41707,BIO 144,"Crane,Sharron  ",Tues ,7:00 PM
+41751,BIO 144,"Crane,Sharron  ",Thurs ,7:00 PM
+41686,BIO 171,"Crowder,James  ",Mon Wed ,5:30 PM
+41687,BIO 171,"Crowder,James  ",Mon ,6:30 PM
+41690,BIO 171,"Crowder,James  ",Wed ,6:30 PM
+41688,BIO 171,"Swartz,Darl  ",Mon Thurs ,12:30 PM
+41689,BIO 171,"Swartz,Darl  ",Mon ,1:30 PM
+41691,BIO 171,"Swartz,Darl  ",Thurs ,1:30 PM
+41673,BIO 201,"Lovett,Donald  ",Tues Fri,9:30 AM
+41674,BIO 201,"Lovett,Donald  ",Tues ,2:00 PM
+42253,BIO 201,"Lovett,Donald  ",Thurs ,2:00 PM
+42254,BIO 201,"Felton,Philip  ",Tues Fri,8:00 AM
+42255,BIO 201,"Felton,Philip  ",Tues ,9:30 AM
+42256,BIO 201,"Felton,Philip  ",Fri,9:30 AM
+42257,BIO 201,"Herstoff,Emily  ",Mon Thurs ,2:00 PM
+42258,BIO 201,"Herstoff,Emily  ",Mon ,9:30 AM
+42259,BIO 201,"Herstoff,Emily  ",Thurs ,9:30 AM
+42260,BIO 201,"Redere,Agnesa  ",Mon Wed ,5:30 PM
+42261,BIO 201,"Redere,Agnesa  ",Mon ,7:00 PM
+42262,BIO 201,"Redere,Agnesa  ",Wed ,7:00 PM
+41675,BIO 211,"Kress,Tracy  ",Mon Thurs ,9:30 AM
+41713,BIO 211,"Kress,Tracy  ",Mon ,2:00 PM
+41676,BIO 211,"O'Connell,Marcia  ",Tues Fri,11:00 AM
+41677,BIO 211,"O'Connell,Marcia  ",Thurs ,11:00 AM
+41692,BIO 211,"Norvell,Amanda  ",Mon Thurs ,11:00 AM
+41693,BIO 211,"Norvell,Amanda  ",Mon ,8:00 AM
+41695,BIO 211,"Norvell,Amanda  ",Thurs ,8:00 AM
+42263,BIO 211,"O'Neill,Brian  ",Tues Fri,9:30 AM
+42264,BIO 211,"O'Neill,Brian  ",Tues ,2:00 PM
+42265,BIO 211,"O'Neill,Brian  ",Wed ,9:00 AM
+42266,BIO 211,"O'Neill,Brian  ",Thurs ,2:00 PM
+42267,BIO 211,"Zhu,Wenting  ",Tues Fri,8:00 AM
+42268,BIO 211,"Zhu,Wenting  ",Tues ,9:30 AM
+41678,BIO 221,"Reinert,Howard  ",Mon Thurs ,9:30 AM
+41727,BIO 221,"Reinert,Howard  ",Mon ,12:30 PM
+42270,BIO 221,"Morrison,Janet  ",Tues Fri,11:00 AM
+42271,BIO 221,"Morrison,Janet  ",Tues ,2:00 PM
+42272,BIO 221,"Morrison,Janet  ",Fri,2:00 PM
+41679,BIO 231,"Elliott,Kathryn  ",Mon Thurs ,11:00 AM
+41680,BIO 231,"Elliott,Kathryn  ",Mon ,2:00 PM
+41711,BIO 231,"Elliott,Kathryn  ",Thurs ,2:00 PM
+41694,BIO 231,"Grochau-Wright,Zachariah  ",Tues Fri,11:00 AM
+41698,BIO 231,"Grochau-Wright,Zachariah  ",Tues ,2:00 PM
+42274,BIO 231,"Nayak,Sudhir  ",Mon Thurs ,12:30 PM
+42275,BIO 231,"Nayak,Sudhir  ",Mon ,9:30 AM
+41681,BIO 302,"Wynn,Mark  ",Mon Thurs ,3:30 PM
+41682,BIO 302,"Wynn,Mark  ",Mon ,5:00 PM
+41718,BIO 302,"Wynn,Mark  ",Thurs ,5:00 PM
+42284,BIO 342,"Pecor,Keith  ",Mon Thurs ,8:00 AM
+42285,BIO 342,"Pecor,Keith  ",Thurs ,9:30 AM
+42892,BIO 342,"Pecor,Keith  ",Thurs ,12:30 PM
+41730,BIO 344,"Butler,Luke  ",Tues Fri,2:00 PM
+41731,BIO 344,"Butler,Luke  ",Tues ,8:00 AM
+42810,BIO 344,"Butler,Luke  ",Fri,8:00 AM
+42280,BIO 360,"Shevlin,Dennis  ",Tues Fri,9:30 AM
+42281,BIO 360,"Shevlin,Dennis  ",Tues ,2:00 PM
+42248,BIO 371,"Nayak,Sudhir  ",Tues Fri,9:30 AM
+42248,BIO 371,"Papamichail,Dimitrios  ",Tues Fri,9:30 AM
+42249,BIO 371,"Nayak,Sudhir  ",Fri,11:00 AM
+42249,BIO 371,"Papamichail,Dimitrios  ",Fri,11:00 AM
+42760,BIO 399,"Erickson,Jeffery  ",Wed ,9:30 AM
+41738,BIO 441,"Thornton,Leeann  ",Tues Fri,9:30 AM
+41721,BIO 470,"Sarwar,Zaara  ",Mon Thurs ,9:30 AM
+42276,BIO 470,"Sarwar,Zaara  ",Mon ,11:00 AM
+42277,BIO 470,"Sarwar,Zaara  ",Thurs ,11:00 AM
+42278,BIO 470,"Woldemariam,Melkamu  ",Mon Thurs ,2:00 PM
+42279,BIO 470,"Woldemariam,Melkamu  ",Thurs ,9:30 AM
+42282,BIO 480,"Erickson,Jeffery  ",Mon Thurs ,11:00 AM
+42283,BIO 480,"Erickson,Jeffery  ",Mon ,12:30 PM
+41683,BIO 498,"O'Neill,Brian  ",Mon Thurs ,11:00 AM
+41748,BIO 498,"Grochau-Wright,Zachariah  ",Mon Thurs ,3:30 PM
+41518,BME 323,"Hang,Tianqi  ",Mon Wed ,5:30 PM
+41523,BME 323,"Hang,Tianqi  ",Mon Wed ,8:00 PM
+41519,BME 323,"Hang,Tianqi  ",Mon ,7:00 PM
+41524,BME 323,"Hang,Tianqi  ",Wed ,7:00 PM
+41522,BME 333,"Christiani,Thomas  ",Fri,9:30 AM
+42667,BME 333,"Christiani,Thomas  ",Fri,2:00 PM
+42670,BME 343,"Lau,Anthony  ",Mon Thurs ,12:30 PM
+42668,BME 343,"Lau,Anthony  ",Mon Thurs ,2:00 PM
+42671,BME 343,"Lau,Anthony  ",Wed ,9:00 AM
+42669,BME 343,"Lau,Anthony  ",Wed ,10:00 AM
+41520,BME 350,"Hall,Constance  ",Tues Fri,2:00 PM
+42672,BME 350,"Hall,Constance  ",Tues Fri,11:00 AM
+41517,BME 371,"Busha,Brett  ",Mon Thurs ,8:00 AM
+42677,BME 371,"Busha,Brett  ",Mon Thurs ,9:30 AM
+42678,BME 470,"Gabrieli,David  ",Tues Thurs ,5:30 PM
+42679,BME 470,"Gabrieli,David  ",Tues ,4:30 PM
+41521,BME 480,"Busha,Brett  ",Mon Thurs ,12:30 PM
+42245,BME 496,"Wagner,Christopher  ",Wed ,10:00 AM
+40042,BUS 100,"Lehr-Furtado,Mary  ",Wed ,10:00 AM
+40043,BUS 100,"Lehr-Furtado,Mary  ",Wed ,11:00 AM
+40025,BUS 200,"Monseau,Susanna  ",Mon Thurs ,9:30 AM
+40026,BUS 200,"Monseau,Susanna  ",Mon Thurs ,11:00 AM
+40027,BUS 200,"Jacobs,Andrea  ",Mon Thurs ,12:30 PM
+40030,BUS 200,"Michels,Kevin  ",Tues Fri,9:30 AM
+40032,BUS 200,"Schnarr Chiarello,Christine  ",Tues Fri,9:30 AM
+40034,BUS 200,"Scheindlin,Lewis  ",Tues Fri,11:00 AM
+40036,BUS 200,"Scheindlin,Lewis  ",Tues Fri,1:30 PM
+40044,BUS 200,"Mikulski,Thaddeus  ",Tues Thurs ,5:30 PM
+40047,BUS 200,"Sprishen,Leonard  ",Wed ,6:00 PM
+40033,BUS 325,"Lasher,Nancy  ",Mon Thurs ,9:30 AM
+40045,BUS 360,"Monseau,Susanna  ",Mon Thurs ,2:00 PM
+40041,BUS 375,"Michels,Kevin  ",Tues Fri,11:00 AM
+40225,BUS 385,"Michels,Kevin  ",Tues Fri,2:00 PM
+40029,BUS 498,"Prensky,David  ",Mon Thurs ,2:00 PM
+40035,BUS 498,"Leventry,Jeffrey  ",Mon ,5:30 PM
+40039,BUS 498,"Wheeler,Patrick  ",Thurs ,5:30 PM
+40040,BUS 498,"Requa,James  ",Tues ,5:30 PM
+40048,BUS  99,"Dieterich,Tammy  ",Fri,12:30 PM
+41764,CHE 201,"Chan,Benny  ",Mon Wed ,5:30 PM
+41765,CHE 201,"Chan,Benny  ",Mon ,7:00 PM
+41787,CHE 201,"Chan,Benny  ",Wed ,7:00 PM
+41772,CHE 201,"Bassolino,Donna  ",Mon Thurs ,9:30 AM
+41773,CHE 201,"Bassolino,Donna  ",Mon ,12:30 PM
+42135,CHE 201,"Bassolino,Donna  ",Thurs ,12:30 PM
+42136,CHE 201,"Supplee,Carolyn  ",Tues Thurs ,5:30 PM
+42137,CHE 201,"Supplee,Carolyn  ",Tues ,7:00 PM
+42138,CHE 201,"Supplee,Carolyn  ",Thurs ,7:00 PM
+42139,CHE 201,"Brescia,Marc  ",Tues Fri,2:00 PM
+42140,CHE 201,"Brescia,Marc  ",Tues ,9:30 AM
+41766,CHE 202,"Lindsey,Wendy  ",Mon Thurs ,8:00 AM
+41767,CHE 202,"Lindsey,Wendy  ",Mon ,9:30 AM
+41783,CHE 202,"Lindsey,Wendy  ",Thurs ,9:30 AM
+41794,CHE 202,"Simpson,Grey  ",Mon Wed ,5:30 PM
+41795,CHE 202,"Simpson,Grey  ",Mon ,7:00 PM
+41796,CHE 202,"Simpson,Grey  ",Wed ,7:00 PM
+41768,CHE 202,"Bunagan,Michelle  ",Mon Thurs ,3:30 PM
+41769,CHE 202,"Bunagan,Michelle  ",Mon ,12:30 PM
+41777,CHE 202,"Bunagan,Michelle  ",Thurs ,12:30 PM
+41774,CHE 202,"Johnson,Jack  ",Tues Fri,11:00 AM
+41775,CHE 202,"Johnson,Jack  ",Tues ,2:00 PM
+41784,CHE 202,"Manea Krichten,Mirela  ",Fri,2:00 PM
+41780,CHE 202,"Ekanger,Levi  ",Tues Fri,9:30 AM
+41781,CHE 202,"Ekanger,Levi  ",Tues ,2:00 PM
+41782,CHE 202,"Ekanger,Levi  ",Fri,2:00 PM
+41808,CHE 310,"Hunter,Rebecca  ",Tues Fri,8:00 AM
+41809,CHE 310,"Hunter,Rebecca  ",Tues ,9:30 AM
+41810,CHE 310,"Hunter,Rebecca  ",Fri,9:30 AM
+41790,CHE 316,"Guarracino,Danielle  ",Wed ,10:00 AM
+41791,CHE 317,"Hirsh,Donald  ",Wed ,10:00 AM
+41763,CHE 331,"Le,Thuy  ",Mon Wed ,5:30 PM
+41792,CHE 331,"Le,Thuy  ",Mon ,7:00 PM
+41793,CHE 331,"Le,Thuy  ",Wed ,7:00 PM
+41755,CHE 332,"Triano,Rebecca  ",Mon Thurs ,11:00 AM
+41761,CHE 332,"Triano,Rebecca  ",Mon ,2:00 PM
+41776,CHE 332,"Triano,Rebecca  ",Thurs ,2:00 PM
+41778,CHE 332,"Theodoridis,George  ",Tues Thurs ,5:30 PM
+41779,CHE 332,"Theodoridis,George  ",Tues ,7:00 PM
+41804,CHE 332,"Theodoridis,George  ",Thurs ,7:00 PM
+42058,CHE 332,"Abourahma,Heba  ",Tues Fri,11:00 AM
+42059,CHE 332,"Abourahma,Heba  ",Tues ,2:00 PM
+41798,CHE 332,"Hunt,David  ",Mon Thurs ,8:00 AM
+41799,CHE 332,"Hunt,David  ",Mon ,9:30 AM
+41807,CHE 332,"Hunt,David  ",Thurs ,9:30 AM
+41786,CHE 350,"Bassolino,Donna  ",Tues Thurs ,5:30 PM
+42184,CHE 370,"Aucott,Michael  ",Tues Thurs ,5:30 PM
+41759,CHE 371,"Baker,Joseph  ",Mon Thurs ,12:30 PM
+41756,CHE 371,"Baker,Joseph  ",Mon ,2:00 PM
+41757,CHE 371,"Baker,Joseph  ",Thurs ,2:00 PM
+41760,CHE 430,"Sen,Stephanie  ",Tues Fri,9:30 AM
+41788,CHE 430,"Sen,Stephanie  ",Tues ,2:00 PM
+42170,CHE 474,"Guarracino,Danielle  ",Mon Thurs ,9:30 AM
+42171,CHE 474,"Guarracino,Danielle  ",Thurs ,12:30 PM
+41802,CHE 476,"O'Connor,Abby  ",Tues Fri,11:00 AM
+41803,CHE 476,"O'Connor,Abby  ",Tues ,2:00 PM
+41531,CIV 251,"Paliwal,Manish  ",Mon Thurs ,8:00 AM
+41537,CIV 251,"Strafaci,Joseph  ",Tues Thurs ,5:30 PM
+41542,CIV 251,"Strafaci,Joseph  ",Tues Thurs ,7:00 PM
+41545,CIV 343,"Youssefagha,Ahmed  ",Mon Wed ,5:30 PM
+41539,CIV 343,"Youssefagha,Ahmed  ",Mon Wed ,7:00 PM
+41532,CIV 351,"Al-Omaishi,Nabil  ",Mon Thurs ,9:30 AM
+42583,CIV 351,"Maccariella,James  ",Tues Thurs ,5:30 PM
+41533,CIV 351,"Al-Omaishi,Nabil  ",Wed ,9:00 AM
+42584,CIV 351,"Maccariella,James  ",Thurs ,7:00 PM
+42689,CIV 363,"Patel,Kunal  ",Mon ,5:00 PM
+42690,CIV 363,"Patel,Kunal  ",Wed ,5:00 PM
+41541,CIV 372,"Purcell,James  ",Mon Thurs ,8:00 AM
+42582,CIV 372,"Purcell,James  ",Tues Fri,8:00 AM
+42692,CIV 381,"Najjar,Kenneth  ",Thurs ,9:30 AM
+41534,CIV 385,"Horst,Michael  ",Tues Fri,11:00 AM
+42693,CIV 385,"Horst,Michael  ",Tues Fri,2:00 PM
+41538,CIV 385,"Horst,Michael  ",Wed ,10:00 AM
+42694,CIV 385,"Horst,Michael  ",Wed ,4:00 PM
+41535,CIV 431,"Krstic,Vedrana  ",Tues Fri,9:30 AM
+42701,CIV 431,"Krstic,Vedrana  ",Tues Fri,3:30 PM
+41536,CIV 431,"Krstic,Vedrana  ",Wed ,8:00 AM
+42702,CIV 431,"Krstic,Vedrana  ",Wed ,5:00 PM
+41540,CIV 444,"Bechtel,Andrew  ",Mon Thurs ,11:00 AM
+42704,CIV 444,"Bechtel,Andrew  ",Mon Thurs ,12:30 PM
+41543,CIV 471,"Wintermute,J. Michael  ",Tues Thurs ,7:00 PM
+41544,CIV 471,"Wintermute,J. Michael  ",Tues Thurs ,8:30 PM
+42708,CIV 496,"Krstic,Vedrana  ",Wed ,6:00 PM
+41813,CSC 215,"Niroomand,Hajar  ",Mon Wed ,5:30 PM
+41821,CSC 215,"Higgins,Brian  ",Tues Thurs ,7:00 PM
+41818,CSC 215,"Anand,Shajina  ",Tues Fri,9:30 AM
+41819,CSC 215,"Anand,Shajina  ",Tues Fri,11:00 AM
+41842,CSC 215,"Niroomand,Hajar  ",Mon Wed ,7:00 PM
+41814,CSC 220,"Rhoads,Glenn  ",Thurs ,11:00 AM
+41840,CSC 220,"Russo,Mark  ",Tues Thurs ,5:30 PM
+41815,CSC 230,"Li,Jikai  ",Tues Fri,11:00 AM
+41822,CSC 230,"Shahnewaz Ferdous,Sharif Mohammad  ",Mon ,11:00 AM
+41844,CSC 230,"Shahnewaz Ferdous,Sharif Mohammad  ",Mon Thurs ,3:30 PM
+41816,CSC 270,"Salgian,Andrea  ",Mon Thurs ,9:30 AM
+41845,CSC 270,"Salgian,Andrea  ",Mon ,12:30 PM
+41828,CSC 270,"Rhoads,Glenn  ",Tues Fri,11:00 AM
+41830,CSC 270,"Rhoads,Glenn  ",Tues Fri,3:30 PM
+41851,CSC 275,"Ammar,Ron  ",Mon ,5:30 PM
+41827,CSC 299,"Knox,Deborah  ",Mon ,11:00 AM
+41829,CSC 299,"Knox,Deborah  ",Mon ,2:00 PM
+42756,CSC 307,"Ochs,Michael  ",Mon Thurs ,2:00 PM
+41839,CSC 315,"Degood,John  ",Mon Thurs ,3:30 PM
+42901,CSC 315,"Degood,John  ",Mon Thurs ,2:00 PM
+41824,CSC 325,"Knox,Deborah  ",Mon Thurs ,9:30 AM
+41826,CSC 335,"Papamichail,Dimitrios  ",Tues Fri,3:30 PM
+41820,CSC 345,"Yoon,Sejong  ",Mon ,12:30 PM
+41841,CSC 345,"Degood,John  ",Tues Fri,11:00 AM
+42233,CSC 380,"Yoon,Sejong  ",Mon Thurs ,2:00 PM
+41817,CSC 415,"Pulimood,Sarah  ",Mon Thurs ,9:30 AM
+41847,CSC 415,"Pulimood,Sarah  ",Mon Thurs ,12:30 PM
+41823,CSC 445,"Papamichail,Dimitrios  ",Tues Fri,2:00 PM
+42234,CSC 450,"Li,Jikai  ",Tues ,9:30 AM
+41825,CSC 470,"Bloodgood,Michael  ",Tues Fri,3:30 PM
+40049,ECO 101,"Levine,Jeremy  ",Tues Fri,8:00 AM
+40050,ECO 101,"Levine,Jeremy  ",Tues Fri,11:00 AM
+40051,ECO 101,"Liu,Jingxi  ",Tues Fri,2:00 PM
+40052,ECO 101,"O'Donnell,Anthony  ",Mon Thurs ,5:30 PM
+40065,ECO 101,"Liu,Jingxi  ",Tues Fri,3:30 PM
+40069,ECO 101,"Baker,Richard  ",Mon Thurs ,9:30 AM
+40228,ECO 101,"Cerf,Jerry  ",Mon Thurs ,12:30 PM
+40053,ECO 102,"Vandegrift,Donald  ",Mon Thurs ,9:30 AM
+40054,ECO 102,"Elgawly,Michael  ",Tues Fri,8:00 AM
+40056,ECO 102,"Greenblatt,Matthew  ",Tues Fri,9:30 AM
+40066,ECO 102,"Samanta,Subarna  ",Mon Thurs ,12:30 PM
+40057,ECO 102,"Ganguli,Subhadra  ",Mon Thurs ,11:00 AM
+40058,ECO 102,"Nelson,Howard  ",Mon ,6:00 PM
+40068,ECO 102,"Ganguli,Subhadra  ",Mon Thurs ,9:30 AM
+40070,ECO 102,"Rawal,Manan  ",Thurs ,6:00 PM
+40219,ECO 102,"Brodersen,Donka  ",Tues Fri,11:00 AM
+40220,ECO 102,"Nelson,Howard  ",Tues ,6:00 PM
+40055,ECO 102,"Naples,Michele  ",Tues Fri,9:30 AM
+40072,ECO 120,"Baker,Richard  ",Mon Thurs ,11:00 AM
+40059,ECO 210,"Naples,Michele  ",Tues Fri,2:00 PM
+40061,ECO 231,"Tang,Linghui  ",Tues Fri,9:30 AM
+40062,ECO 231,"Tang,Linghui  ",Tues ,6:00 PM
+40221,ECO 231,"O'Grady,Trevor  ",Tues Fri,11:00 AM
+40063,ECO 301,"Vandegrift,Donald  ",Mon Thurs ,2:00 PM
+40218,ECO 320,"Brodersen,Donka  ",Tues Fri,1:30 PM
+40071,ECO 340,"Ganguli,Subhadra  ",Mon Thurs ,3:30 PM
+40067,ECO 350,"O'Grady,Trevor  ",Tues Fri,2:00 PM
+42085,ECO 495,"O'Grady,Trevor  ",Wed ,10:00 AM
+42086,ECO 495,"Baker,Richard  ",Wed ,10:00 AM
+42087,ECO 495,"Greenblatt,Matthew  ",Wed ,10:00 AM
+41552,ELC 251,"Deese,Anthony  ",Tues Fri,8:00 AM
+41561,ELC 251,"Deese,Anthony  ",Tues Fri,9:30 AM
+41549,ELC 321,"Adegbege,Ambrose  ",Mon Thurs ,12:30 PM
+41559,ELC 321,"Macdonald,John  ",Tues Thurs ,5:30 PM
+41562,ELC 321,"Holubec,George  ",Tues Thurs ,7:00 PM
+41550,ELC 333,"Jesson,Joseph  ",Mon ,2:00 PM
+41551,ELC 333,"Holubec,George  ",Thurs ,2:00 PM
+41553,ELC 361,"Katz,Allen  ",Tues Fri,11:00 AM
+41556,ELC 361,"Katz,Allen  ",Wed ,4:00 PM
+41554,ELC 373,"Katz,Allen  ",Tues ,2:00 PM
+41558,ELC 383,"Hernandez,Orlando  ",Mon ,2:00 PM
+41557,ELC 383,"Hernandez,Orlando  ",Mon ,3:25 PM
+41555,ELC 463,"Hernandez,Orlando  ",Mon ,5:00 PM
+42791,ELC 470,"Wondmagegn,Wudyalew  ",Tues Fri,9:30 AM
+42792,ELC 470,"Wondmagegn,Wudyalew  ",Tues Fri,9:00 AM
+42759,ELC 480,"Pearlstein,Larry  ",Tues Fri,9:30 AM
+42762,ELC 480,"Pearlstein,Larry  ",Tues Fri,9:00 AM
+42729,ELC 495,"Katz,Allen  ",Wed ,8:00 AM
+42730,ELC 496,"Katz,Allen  ",Wed ,8:00 AM
+41571,ENG 142,"Wei,Xuefeng  ",Mon Thurs ,9:30 AM
+41573,ENG 142,"Kim,Seung-Yun  ",Tues Fri,8:00 AM
+41585,ENG 142,"Kim,Seung-Yun  ",Tues Fri,11:00 AM
+41591,ENG 142,"Stella,Martha  ",Mon Thurs ,12:30 PM
+41572,ENG 142,"Wei,Xuefeng  ",Thurs ,2:00 PM
+41583,ENG 142,"Bechtel,Andrew  ",Thurs ,3:30 PM
+41587,ENG 142,"Kim,Seung-Yun  ",Fri,2:00 PM
+41586,ENG 142,"Cao,Hongxiang  ",Mon ,3:30 PM
+41574,ENG 152,"Murthy,Sanjeeva  ",Mon Wed ,7:00 PM
+42579,ENG 152,"Zamani Khalajabadi,Shahrouz  ",Mon Thurs ,8:00 AM
+42580,ENG 152,"Zamani Khalajabadi,Shahrouz  ",Mon Thurs ,9:30 AM
+41605,ENG 212,"Duncan,Hibbert  ",Mon Thurs ,8:00 AM
+42758,ENG 214,"Wondmagegn,Wudyalew  ",Fri,2:00 PM
+41588,ENG 222,"Krstic,Vedrana  ",Tues Fri,8:00 AM
+41575,ENG 262,"Rached,Safwan  ",Mon Thurs ,9:30 AM
+41584,ENG 262,"Rached,Safwan  ",Mon Thurs ,11:00 AM
+41595,ENG 262,"Mahgoub,Mohamed  ",Tues Fri,11:00 AM
+41576,ENG 272,"Shih,Ching-Tai  ",Mon Thurs ,12:30 PM
+41577,ENG 312,"Pearlstein,Larry  ",Tues Fri,11:00 AM
+41603,ENG 312,"Saeidpour Parizy,Ehsan  ",Tues Fri,8:00 AM
+41590,ENG 312,"Pearlstein,Larry  ",Tues Fri,12:30 PM
+41604,ENG 312,"Saeidpour Parizy,Ehsan  ",Tues Fri,7:30 AM
+41578,ENG 342,"Delahanty,Christine  ",Tues Thurs ,5:30 PM
+41592,ENG 348,"Hernandez,Orlando  ",Mon ,8:00 AM
+41601,ENG 348,"Hernandez,Orlando  ",Thurs ,8:00 AM
+41593,ENG 348,"Hernandez,Orlando  ",Mon ,7:30 AM
+41602,ENG 348,"Hernandez,Orlando  ",Thurs ,7:30 AM
+41582,ENG 352,"Adegbege,Ambrose  ",Mon Thurs ,9:30 AM
+41596,ENG 352,"Duncan,Hibbert  ",Mon Thurs ,12:30 PM
+41579,ENG 354,"Saeidpour Parizy,Ehsan  ",Mon ,2:00 PM
+41600,ENG 354,"Kelly,Frederick  ",Thurs ,2:00 PM
+41580,ENG 372,"Shih,Ching-Tai  ",Mon Thurs ,8:00 AM
+41589,ENG 372,"Shih,Ching-Tai  ",Mon Thurs ,9:30 AM
+41581,ENG 452,"Cano,Diana  ",Mon ,12:30 PM
+43200,ENG  96,"Stella,Martha  ",Wed ,11:00 AM
+41599,ENG  98,"Deese,Anthony  ",Fri,12:30 PM
+41598,ENG  98,"Paliwal,Manish  ",Wed ,5:30 PM
+41606,ETE 111,"Better,Christopher  ",Thurs ,5:30 PM
+41613,ETE 111,"Better,Christopher  ",Thurs ,8:30 PM
+41607,ETE 131,"O'Brien,Steve  ",Mon Thurs ,9:30 AM
+41608,ETE 131,"O'Brien,Steve  ",Wed ,4:00 PM
+41621,ETE 261,"Roses,Sheryl  ",Mon ,5:30 PM
+41622,ETE 261,"Roses,Sheryl  ",Mon ,8:30 PM
+41612,ETE 271,"Cathell,Matthew  ",Mon Thurs ,11:00 AM
+41616,ETE 271,"Cathell,Matthew  ",Wed ,10:00 AM
+41623,ETE 275,"Mulligan,James  ",Wed ,5:30 PM
+41624,ETE 275,"Mulligan,James  ",Wed ,8:30 PM
+41609,ETE 281,"Cappiello,Michael  ",Tues ,5:30 PM
+41617,ETE 281,"Cappiello,Michael  ",Tues ,8:30 PM
+41619,ETE 341,"Cathell,Matthew  ",Mon Thurs ,2:00 PM
+41620,ETE 341,"Cathell,Matthew  ",Wed ,4:00 PM
+41610,ETE 361,"Roses,Sheryl  ",Wed ,5:30 PM
+41614,ETE 361,"Roses,Sheryl  ",Wed ,8:30 PM
+41611,ETE 385,"O'Brien,Steve  ",Mon ,3:30 PM
+42722,ETE 461,"Beykirch,Nicholas  ",Tues ,5:30 PM
+42723,ETE 461,"Beykirch,Nicholas  ",Tues ,8:30 PM
+41615,ETE 492,"Beykirch,Nicholas  ",Thurs ,5:30 PM
+41625,ETE 492,"Beykirch,Nicholas  ",Thurs ,8:30 PM
+41618,ETE 495,"Figueroa,Manuel  ",Mon Thurs ,12:30 PM
+40074,FIN 201,"Hume,Susan  ",Mon Thurs ,2:00 PM
+40094,FIN 201,"Hume,Susan  ",Mon Thurs ,2:00 PM
+40096,FIN 201,"Hume,Susan  ",Mon Thurs ,3:30 PM
+40077,FIN 201,"Hume,Susan  ",Mon Thurs ,3:30 PM
+40097,FIN 201,"Lasky,Nicola  ",Tues Fri,9:30 AM
+40101,FIN 201,"Bernard,Catherine  ",Tues ,5:30 PM
+40210,FIN 201,"Bernard,Catherine  ",Mon ,5:30 PM
+40092,FIN 310,"Bohnett,Clare  ",Tues Fri,8:00 AM
+40091,FIN 310,"Kim,Tae-Nyun  ",Mon Thurs ,12:30 PM
+40084,FIN 310,"Kim,Tae-Nyun  ",Mon Thurs ,2:00 PM
+40102,FIN 310,"Bohnett,Clare  ",Tues Fri,9:30 AM
+40099,FIN 310,"Singkamanand,Patrick  ",Thurs ,5:30 PM
+40098,FIN 310,"Singkamanand,Patrick  ",Mon ,5:30 PM
+40217,FIN 315,"Choi,Seung Hee  ",Tues Fri,9:30 AM
+40075,FIN 320,"Mayo,Herbert  ",Mon Thurs ,2:00 PM
+40085,FIN 320,"Mayo,Herbert  ",Mon Thurs ,12:30 PM
+40078,FIN 330,"Choi,Seung Hee  ",Tues Fri,8:00 AM
+40083,FIN 330,"Kim,Tae-Nyun  ",Mon Thurs ,9:30 AM
+40089,FIN 330,"Sorokina,Nonna  ",Mon Thurs ,9:30 AM
+40080,FIN 340,"Hume,Susan  ",Mon Thurs ,9:30 AM
+40081,FIN 360,"Sorokina,Nonna  ",Mon Thurs ,11:00 AM
+40090,FIN 360,"Szabo,Eric  ",Wed ,6:00 PM
+40216,FIN 360,"Sorokina,Nonna  ",Mon Thurs ,2:00 PM
+42067,FIN 391,"Mayo,Herbert  ",Tues Fri,11:00 AM
+42069,FIN 391,"Patrick,Thomas  ",Wed ,4:00 PM
+42070,FIN 391,"Patrick,Thomas  ",Wed ,4:00 PM
+40076,FIN 410,"Mayo,Herbert  ",Tues Fri,1:00 PM
+40079,FIN 430,"Patrick,Thomas  ",Wed ,5:00 PM
+40082,FIN 430,"Patrick,Thomas  ",Thurs ,5:30 PM
+42078,FIN 495,"Choi,Seung Hee  ",Tues Fri,2:00 PM
+40240,HES 151,"Bruno,Laura  ",Tues Fri,9:30 AM
+42676,HES 152,"Radler,Tracy  ",Mon ,5:00 PM
+40257,HES 160,"Farrell,John  ",Mon Thurs ,12:30 PM
+40262,HES 172,"Bush-Wallace,Jill  ",Tues Fri,12:30 PM
+40266,HES 183,"Russo,Joseph  ",Mon Thurs ,11:00 AM
+40269,HES 183,"Russo,Joseph  ",Mon Thurs ,9:30 AM
+42749,HES 183,"Galante,Richard  ",Tues Fri,9:30 AM
+42750,HES 183,"Galante,Richard  ",Tues Fri,11:00 AM
+40241,HES 203,"Farrell,John  ",Mon Wed Thurs ,8:00 AM
+40243,HES 205,"Farrell,John  ",Mon Wed Thurs ,9:30 AM
+40260,HES 205,"Farrell,John  ",Mon Wed Thurs ,11:00 AM
+42687,HES 210,"Ratamess,Nicholas  ",Mon Thurs ,8:00 AM
+42688,HES 210,"Ratamess,Nicholas  ",Mon Thurs ,9:30 AM
+40246,HES 211,"Kang,Jie  ",Mon Thurs ,12:30 PM
+40254,HES 211,"Kang,Jie  ",Mon Thurs ,2:00 PM
+40247,HES 250,"Kang,Jie  ",Mon Thurs ,11:00 AM
+40268,HES 260,"Bruno,Laura  ",Tues Fri,11:00 AM
+40263,HES 270,"Farrell,Anne  ",Mon Thurs ,7:30 AM
+40258,HES 280,"Farrell,Anne  ",Mon Wed Thurs ,9:30 AM
+40275,HES 300,"Faigenbaum,Avery  ",Mon Thurs ,7:30 AM
+40265,HES 301,"Ratamess,Nicholas  ",Tues Fri,11:00 AM
+42905,HES 301,"Ratamess,Nicholas  ",Tues Fri,11:00 AM
+40244,HES 302,"Bush-Wallace,Jill  ",Tues Fri,7:30 AM
+40270,HES 320,"Bush-Wallace,Jill  ",Tues Fri,9:30 AM
+42903,HES 320,"Bush-Wallace,Jill  ",Tues Fri,9:30 AM
+40256,HES 351,"Smith-Tavener,Joanne  ",Tues ,5:00 PM
+40252,HES 351,"Smith-Tavener,Joanne  ",Tues ,3:30 PM
+40248,HES 360,"Bruno,Laura  ",Tues Fri,12:30 PM
+40255,HES 405,"Faigenbaum,Avery  ",Mon Thurs ,9:30 AM
+40267,HES 410,"Ratamess,Nicholas  ",Mon Thurs ,12:30 PM
+40363,HES 480,"Bruno,Laura  ",,9:30 AM
+40259,HES 496,"Beller,Noah  ",Wed ,7:30 AM
+40250,HES 497,"Bush-Wallace,Jill  ",Tues ,4:00 PM
+40264,HES 497,"Kang,Jie  ",Wed ,4:00 PM
+40251,HES 498,"Farrell,Anne  ",Tues Wed Thurs ,5:00 PM
+40106,INB 260,"Tang,Linghui  ",Tues Fri,11:00 AM
+40194,IST 201,"Niebo,Leonard  ",Mon Thurs ,2:00 PM
+40197,IST 201,"Niebo,Leonard  ",Mon Thurs ,2:00 PM
+40195,IST 201,"Braender,Lynn  ",Tues Fri,11:00 AM
+40198,IST 201,"Braender,Lynn  ",Tues Fri,11:00 AM
+40196,IST 201,"Montiel,Manuel  ",Mon Wed ,5:30 PM
+40199,IST 201,"Montiel,Manuel  ",Mon Wed ,5:30 PM
+40200,IST 201,"Braender,Lynn  ",Tues Fri,9:30 AM
+40201,IST 201,"Braender,Lynn  ",Tues Fri,9:30 AM
+40190,IST 310,"Wallace,Patricia  ",Mon Thurs ,11:00 AM
+40191,IST 310,"Wallace,Patricia  ",Mon Thurs ,12:30 PM
+40203,IST 310,"Wallace,Patricia  ",Mon Thurs ,3:30 PM
+40192,IST 320,"Tripathi,Abhishek  ",Mon Thurs ,11:00 AM
+40193,IST 320,"Tripathi,Abhishek  ",Mon Thurs ,2:00 PM
+40204,IST 340,"Braender,Lynn  ",Tues Fri,2:00 PM
+40202,IST 350,"Tripathi,Abhishek  ",Mon Thurs ,3:30 PM
+42535,IST 400,"Wallace,Patricia  ",Mon ,5:00 PM
+40214,IST 400,"Braender,Lynn  ",Tues Fri,3:30 PM
+41853,MAT 101,"Mckinney,Kellie  ",Tues Thurs ,6:00 PM
+41883,MAT 102,"Holloway,Laura  ",Tues Fri,2:00 PM
+41874,MAT 105,"Liebars,Cathy  ",Mon Thurs ,11:00 AM
+41897,MAT 105,"Liebars,Cathy  ",Mon Thurs ,12:30 PM
+41875,MAT 106,"Wasserman,Eric H",Mon Wed ,6:00 PM
+42457,MAT 114,"Snider,Rachel  ",Mon Thurs ,2:00 PM
+41894,MAT 119,"Holloway,Laura  ",Mon Wed ,6:00 PM
+41891,MAT 120,"Van Der Sandt,Suriza  ",Mon Thurs ,9:30 AM
+41895,MAT 120,"Dell'Omo,Polly  ",Tues Fri,11:00 AM
+41855,MAT 125,"Twisler,Daniel  ",Mon Wed ,6:00 PM
+41856,MAT 125,"Twisler,Daniel  ",Mon Wed ,7:30 PM
+41886,MAT 125,"Hagedorn,Thomas  ",Mon Thurs ,12:30 PM
+41886,MAT 125,"Johnson,Warner  ",Mon Thurs ,12:30 PM
+41889,MAT 125,"Hagedorn,Thomas  ",Mon Thurs ,2:00 PM
+41889,MAT 125,"Johnson,Warner  ",Mon Thurs ,2:00 PM
+41857,MAT 127,"Reimer,David  ",Mon Thurs ,11:00 AM
+41858,MAT 127,"Gevertz Fiorelli,Jana  ",Mon Thurs ,12:30 PM
+41860,MAT 127,"Nicol,Amanda  ",Tues Thurs ,7:30 PM
+41859,MAT 127,"Nicol,Amanda  ",Tues Thurs ,5:30 PM
+41879,MAT 127,"Kuehne,Paul  ",Mon Wed ,7:30 PM
+41885,MAT 127,"Kuehne,Paul  ",Mon Wed ,5:30 PM
+41861,MAT 128,"Papantonopoulou,Aigli  ",Mon Thurs ,2:00 PM
+41862,MAT 128,"Papantonopoulou,Aigli  ",Mon Thurs ,3:30 PM
+41863,MAT 128,"Battista,Nicholas  ",Tues Fri,8:00 AM
+41864,MAT 128,"Franczak,William  ",Tues Fri,3:30 PM
+41902,MAT 128,"Ashton,Charlie  ",Tues Fri,8:00 AM
+41866,MAT 128,"Ashton,Charlie  ",Tues Fri,9:30 AM
+41867,MAT 128,"Holston,Christopher  ",Mon Wed ,5:30 PM
+41877,MAT 128,"Holston,Christopher  ",Mon Wed ,7:30 PM
+41868,MAT 200,"Kardos,Judit  ",Tues Fri,11:00 AM
+41878,MAT 200,"Schmoyer,Susan  ",Mon Thurs ,9:30 AM
+41887,MAT 200,"Schmoyer,Susan  ",Mon Thurs ,11:00 AM
+41869,MAT 205,"Curtis-Budka,Cynthia  ",Mon Thurs ,11:00 AM
+41870,MAT 205,"Franczak,William  ",Tues Fri,8:00 AM
+41884,MAT 205,"Franczak,William  ",Tues Fri,9:30 AM
+41871,MAT 229,"Clifford,Andrew  ",Tues Fri,11:00 AM
+41872,MAT 229,"Zheng,Qifu  ",Mon Thurs ,8:00 AM
+41873,MAT 229,"Zheng,Qifu  ",Mon Thurs ,9:30 AM
+41880,MAT 229,"Zheng,Qifu  ",Mon Thurs ,12:30 PM
+41882,MAT 229,"Voskanian,Edward  ",Tues Fri,8:00 AM
+41890,MAT 229,"Voskanian,Edward  ",Tues Fri,9:30 AM
+41896,MAT 229,"Voskanian,Edward  ",Tues Fri,2:00 PM
+41899,MAT 255,"Reimer,David  ",Mon Thurs ,2:00 PM
+41900,MAT 255,"Reimer,David  ",Mon Thurs ,3:30 PM
+42345,MAT 265,"Horrell,Neal  ",Mon Wed ,6:00 PM
+42816,MAT 275,"Clark,Karen  ",Tues ,2:00 PM
+42817,MAT 275,"Clark,Karen  ",Fri,2:00 PM
+42346,MAT 301,"Hagedorn,Thomas  ",Mon Thurs ,9:30 AM
+42347,MAT 301,"Hagedorn,Thomas  ",Mon Thurs ,12:30 PM
+42348,MAT 305,"Marcus,Steffen  ",Tues Fri,3:30 PM
+42349,MAT 310,"Kardos,Judit  ",Tues Fri,2:00 PM
+42350,MAT 310,"Kardos,Judit  ",Tues Fri,3:30 PM
+42351,MAT 320,"Papantonopoulou,Aigli  ",Mon Thurs ,11:00 AM
+42352,MAT 326,"Mizuhara,Matthew  ",Mon Thurs ,12:30 PM
+42353,MAT 326,"Mizuhara,Matthew  ",Mon Thurs ,2:00 PM
+42354,MAT 331,"Clark,Karen  ",Tues Fri,11:00 AM
+42355,MAT 351,"Curtis-Budka,Cynthia  ",Mon Thurs ,12:30 PM
+42356,MAT 451,"Marcus,Steffen  ",Tues Fri,2:00 PM
+42357,MAT 498,"Clark,Karen  ",Tues Fri,9:30 AM
+42358,MAT 498,"Clifford,Andrew  ",Tues Fri,9:30 AM
+41852,MAT  95,"Mukherjee,Arun  ",Tues Fri,9:30 AM
+41635,MEC 251,"Paliwal,Manish  ",Mon Thurs ,8:00 AM
+41626,MEC 251,"Strafaci,Joseph  ",Tues Thurs ,5:30 PM
+41636,MEC 251,"Strafaci,Joseph  ",Tues Thurs ,7:00 PM
+41627,MEC 263,"Cao,Hongxiang  ",Mon ,12:30 PM
+41628,MEC 263,"Sepahpour,Bijan  ",Tues ,2:00 PM
+41638,MEC 263,"Sepahpour,Bijan  ",Thurs ,2:00 PM
+41633,MEC 343,"Lau,Anthony  ",Mon Thurs ,12:30 PM
+42951,MEC 343,"Lau,Anthony  ",Mon Thurs ,2:00 PM
+41634,MEC 343,"Lau,Anthony  ",Wed ,9:00 AM
+42952,MEC 343,"Lau,Anthony  ",Wed ,10:00 AM
+41639,MEC 361,"Grega,Lisa  ",Tues Fri,2:00 PM
+41647,MEC 361,"Kazemi,Farzan  ",Mon Wed ,5:30 PM
+42832,MEC 361,"Kazemi,Farzan  ",Mon Wed ,7:00 PM
+41629,MEC 363,"Grega,Lisa  ",Tues ,8:00 AM
+41632,MEC 363,"Patel,Kunal  ",Fri,3:30 PM
+41630,MEC 371,"Facas,George  ",Mon Thurs ,2:00 PM
+41640,MEC 371,"Facas,George  ",Mon Thurs ,12:30 PM
+42753,MEC 421,"Sepahpour,Bijan  ",Mon Thurs ,9:30 AM
+42754,MEC 421,"Sepahpour,Bijan  ",Wed ,4:00 PM
+42698,MEC 451,"Facas,George  ",Mon Thurs ,8:00 AM
+42699,MEC 451,"Facas,George  ",Wed ,8:00 AM
+41631,MEC 463,"Wang,Yunfeng  ",Mon ,11:00 AM
+41637,MEC 463,"Wang,Yunfeng  ",Thurs ,11:00 AM
+41645,MEC 483,"Wang,Yunfeng  ",Mon Thurs ,3:30 PM
+41646,MEC 483,"Wang,Yunfeng  ",Mon Thurs ,5:00 PM
+42700,MEC 496,"Sepahpour,Bijan  ",Wed ,10:00 AM
+40108,MGT 201,"Prensky,David  ",Mon ,8:00 AM
+40109,MGT 201,"Prensky,David  ",Mon ,9:30 AM
+40125,MGT 201,"Fallone,Carla  ",Thurs ,5:30 PM
+40110,MGT 201,"Requa,James  ",Tues Fri,12:30 PM
+40130,MGT 201,"Requa,James  ",Tues Fri,12:30 PM
+40148,MGT 201,"Kurocka,Edward  ",Mon Thurs ,11:00 AM
+40126,MGT 201,"Kurocka,Edward  ",Mon Thurs ,11:00 AM
+40138,MGT 235,"Cerenzio,Joseph  ",Mon ,5:30 PM
+40111,MGT 301,"Ghitulescu,Brenda  ",Mon Thurs ,12:30 PM
+40136,MGT 301,"Ghitulescu,Brenda  ",Mon Thurs ,11:00 AM
+40153,MGT 301,"Kurocka,Edward  ",Wed ,5:30 PM
+40127,MGT 310,"Lillevik,Waheeda  ",Mon Thurs ,8:00 AM
+40128,MGT 310,"Lillevik,Waheeda  ",Mon Thurs ,9:30 AM
+40112,MGT 320,"Carbonilla,Alberto  ",Tues Fri,8:00 AM
+40113,MGT 320,"Carbonilla,Alberto  ",Tues Fri,9:30 AM
+40135,MGT 320,"Roach,Apryl  ",Wed ,5:30 PM
+40224,MGT 345,"Leventry,Jeffrey  ",Wed ,5:30 PM
+40114,MGT 360,"Peterson,Karl  ",Tues Fri,1:30 PM
+40115,MGT 360,"Peterson,Karl  ",Tues Fri,3:30 PM
+40116,MGT 360,"Wang,Shengbin  ",Mon Thurs ,12:30 PM
+40137,MGT 360,"Wang,Shengbin  ",Mon Thurs ,3:30 PM
+40140,MGT 360,"Siecienski,Edward  ",Mon ,5:30 PM
+40145,MGT 370,"Roche,Robert  ",Thurs ,5:30 PM
+40152,MGT 370,"Wang,Shengbin  ",Tues ,5:30 PM
+40144,MGT 375,"Michels,Kevin  ",Tues Fri,11:00 AM
+40117,MGT 381,"Fallone,Carla  ",Mon Thurs ,11:00 AM
+40118,MGT 385,"Michels,Kevin  ",Tues Fri,2:00 PM
+40129,MGT 498,"Prensky,David  ",Mon Thurs ,2:00 PM
+40131,MGT 498,"Leventry,Jeffrey  ",Mon ,5:30 PM
+40143,MGT 498,"Wheeler,Patrick  ",Thurs ,5:30 PM
+42898,MGT 498,"Requa,James  ",Tues ,5:30 PM
+40119,MGT 499,"Han,Xu  ",Tues Fri,9:30 AM
+40120,MGT 499,"Kim,Jinsil  ",Mon Thurs ,8:00 AM
+40134,MGT 499,"Kim,Jinsil  ",Mon Thurs ,9:30 AM
+40121,MGT 499,"Kim,Jinsil  ",Mon Thurs ,11:00 AM
+40122,MGT 499,"Bertin-Peterson,Martine  ",Tues Fri,11:00 AM
+40123,MGT 499,"Bertin-Peterson,Martine  ",Tues Fri,1:30 PM
+40124,MGT 499,"Han,Xu  ",Tues Fri,8:00 AM
+40132,MGT 499,"Henig,Stephan  ",Tues ,5:30 PM
+40139,MGT 499,"Neves,Joao  ",Mon Thurs ,3:30 PM
+42187,MGT 499,"Neves,Joao  ",Wed ,5:30 PM
+40154,MKT 201,"Prensky,David  ",Thurs ,8:00 AM
+40155,MKT 201,"Prensky,David  ",Thurs ,9:30 AM
+40187,MKT 201,"Fallone,Carla  ",Thurs ,7:31 PM
+40162,MKT 201,"Epstein,Dawn  ",Mon Thurs ,11:00 AM
+40168,MKT 201,"Epstein,Dawn  ",Mon Thurs ,11:00 AM
+40235,MKT 201,"Brechman,Jean  ",Mon Thurs ,2:00 PM
+40236,MKT 201,"Brechman,Jean  ",Mon Thurs ,2:00 PM
+40186,MKT 201,"Sheridan,Shawn  ",Wed ,5:30 PM
+40167,MKT 201,"Sheridan,Shawn  ",Wed ,5:30 PM
+40156,MKT 300,"Mccarty,John  ",Mon Thurs ,3:30 PM
+40179,MKT 300,"Mccarty,John  ",Mon Wed ,5:30 PM
+40160,MKT 310,"Tucci,Louis  ",Mon Thurs ,11:00 AM
+40170,MKT 310,"Tucci,Louis  ",Mon Thurs ,12:30 PM
+40166,MKT 340,"Duan,Jingyi  ",Tues Fri,2:00 PM
+40180,MKT 340,"Duan,Jingyi  ",Tues Fri,3:30 PM
+40181,MKT 340,"Siecienski,Edward  ",Thurs ,5:30 PM
+40157,MKT 360,"Markus,Elizabeth  ",Mon ,5:30 PM
+40183,MKT 360,"Vogel,Laura  ",Tues ,2:00 PM
+40178,MKT 360,"Feather,Catherine  ",Wed ,5:30 PM
+40163,MKT 365,"Becker,Karen  ",Mon Thurs ,11:00 AM
+40164,MKT 365,"Becker,Karen  ",Mon Thurs ,12:30 PM
+40184,MKT 370,"Duan,Jingyi  ",Tues Fri,9:30 AM
+42585,MKT 370,"Monseau,Marc  ",Thurs ,5:30 PM
+40188,MKT 370,"John,Eric  ",Mon ,5:30 PM
+40159,MKT 371,"Inyang,Aniefre  ",Tues Fri,9:30 AM
+40172,MKT 371,"Inyang,Aniefre  ",Tues Fri,11:00 AM
+40158,MKT 380,"Brechman,Jean  ",Mon Thurs ,11:00 AM
+40169,MKT 380,"Brechman,Jean  ",Mon Thurs ,12:30 PM
+40171,MKT 450,"Wheeler,Patrick  ",Mon ,5:30 PM
+42456,MKT 450,"Mckenzie,Chris  ",Tues ,5:30 PM
+41905,MTT 202,"Conte,Saundra  ",Fri,8:00 AM
+41906,MTT 202,"Braverman,Barbara  ",Thurs ,8:00 AM
+41907,MTT 202,"Bershtein,Jillian  ",Mon ,8:00 AM
+41917,MTT 202,"Winogron,Judith  ",Fri,12:30 PM
+40323,NUR 110,"Gellasch,Patricia  ",Tues ,9:30 AM
+40276,NUR 200,"Kartoz,Constance  ",Mon ,1:00 PM
+40317,NUR 200,"Kartoz,Constance  ",Wed ,9:00 AM
+40307,NUR 202,"Young,Beth  ",Tues ,5:00 PM
+40325,NUR 202,"Young,Beth  ",Wed ,4:00 PM
+40329,NUR 210,"Clugston,Sharen  ",Wed ,5:00 PM
+40277,NUR 240,"Brooks,Sonji  ",Tues ,8:00 AM
+40277,NUR 240,"Dzubaty,Dolores  ",Tues ,8:00 AM
+40278,NUR 240,"Dzubaty,Dolores  ",Tues ,8:00 AM
+40278,NUR 240,"Puschak,Melissa  ",Tues ,8:00 AM
+40279,NUR 240,"Dzubaty,Dolores  ",Tues ,8:00 AM
+40279,NUR 240,"Probola,Adrienne  ",Tues ,8:00 AM
+40322,NUR 240,"Dzubaty,Dolores  ",Tues ,8:00 AM
+40322,NUR 240,"Przemieniecki,Melissa  ",Tues ,8:00 AM
+40280,NUR 240,"Atkins,Rahshida  ",Thurs ,8:00 AM
+40280,NUR 240,"Dzubaty,Dolores  ",Thurs ,8:00 AM
+40281,NUR 240,"Amon,Bola  ",Thurs ,8:00 AM
+40281,NUR 240,"Dzubaty,Dolores  ",Thurs ,8:00 AM
+40282,NUR 240,"Dzubaty,Dolores  ",Thurs ,8:00 AM
+40283,NUR 240,"Dzubaty,Dolores  ",Thurs ,8:00 AM
+40283,NUR 240,"Lebo,Chelsea  ",Thurs ,8:00 AM
+40357,NUR 300,"Ardise,Joshua  ",Mon ,5:00 PM
+40357,NUR 300,"Byrne,Sharon  ",Mon ,5:00 PM
+40314,NUR 328,"Nelson,Yolanda  ",Mon ,1:30 PM
+40331,NUR 328,"Jackson,Deirdre  ",Wed ,5:00 PM
+40378,NUR 328,"Gellasch,Patricia  ",Mon ,2:00 PM
+40292,NUR 340,"Alexy,Eileen  ",Wed ,8:30 AM
+40292,NUR 340,"Byrne,Sharon  ",Wed ,8:30 AM
+40293,NUR 340,"Alexy,Eileen  ",Tues ,7:00 AM
+40293,NUR 340,"Kartoz,Constance  ",Tues ,7:00 AM
+40294,NUR 340,"Alexy,Eileen  ",Tues ,7:00 AM
+40295,NUR 340,"Alexy,Eileen  ",Tues ,7:00 AM
+40295,NUR 340,"Heithoff,Heather  ",Tues ,7:00 AM
+40296,NUR 340,"Alexy,Eileen  ",Tues ,7:00 AM
+40296,NUR 340,"Heithoff,Heather  ",Tues ,7:00 AM
+40297,NUR 344,"Jakubowski,Tami  ",Wed ,10:00 AM
+40298,NUR 344,"Jakubowski,Tami  ",Thurs Fri,7:00 AM
+40298,NUR 344,"King,Deborah  ",Thurs Fri,7:00 AM
+40299,NUR 344,"Estlow,Margaret  ",Thurs Fri,7:00 AM
+40299,NUR 344,"Jakubowski,Tami  ",Thurs Fri,7:00 AM
+40300,NUR 344,"Jakubowski,Tami  ",Thurs Fri,7:00 AM
+40300,NUR 344,"Markison,Joan  ",Thurs Fri,7:00 AM
+40315,NUR 344,"Jakubowski,Tami  ",Thurs Fri,7:00 AM
+40301,NUR 440,"Perron,Tracy  ",Mon ,9:20 AM
+40302,NUR 440,"Perron,Tracy  ",Wed ,9:30 AM
+40365,NUR 440,"Perron,Tracy  ",Mon ,2:00 PM
+40303,NUR 444,"Korba,Joanne  ",Tues ,7:00 AM
+40303,NUR 444,"Perron,Tracy  ",Tues ,7:00 AM
+40304,NUR 444,"Garzio,Diana  ",Tues ,7:00 AM
+40304,NUR 444,"Perron,Tracy  ",Tues ,7:00 AM
+40319,NUR 444,"Gash,Deborah  ",Tues ,7:00 AM
+40319,NUR 444,"Perron,Tracy  ",Tues ,7:00 AM
+40305,NUR 444,"Perron,Tracy  ",Tues ,7:00 AM
+40305,NUR 444,"Rudowski,Ellen  ",Tues ,7:00 AM
+40306,NUR 444,"Massaro-Johnson,Wendy  ",Thurs ,7:00 AM
+40306,NUR 444,"Perron,Tracy  ",Thurs ,7:00 AM
+40321,NUR 444,"Cohen,Miriam  ",Thurs ,7:00 AM
+40321,NUR 444,"Perron,Tracy  ",Thurs ,7:00 AM
+40333,NUR 444,"Perron,Tracy  ",Thurs ,7:00 AM
+40333,NUR 444,"Thomas,Mary  ",Thurs ,7:00 AM
+40310,NUR 460,"Hooven,Katie  ",Wed ,10:00 AM
+40311,NUR 460,"Hooven,Katie  ",Mon ,12:00 PM
+40324,NUR 460,"Hooven,Katie  ",Mon ,10:00 AM
+40330,NUR 460,"Clugston,Sharen  ",Tues ,5:00 PM
+40356,PBH 220,"Cooper,Danielle  ",Thurs ,5:30 PM
+40352,PBH 240,"Marques-Borges,Carolina  ",Tues Fri,9:30 AM
+40371,PBH 240,"Marques-Borges,Carolina  ",Tues Fri,11:00 AM
+40381,PBH 240,"Gulla,Lisa  ",Wed ,5:30 PM
+40382,PBH 300,"Ardise,Joshua  ",Mon ,5:00 PM
+40382,PBH 300,"Byrne,Sharon  ",Mon ,5:00 PM
+40350,PBH 375,"De Souza,Marina Celly Martins R",Tues Fri,12:30 PM
+40351,PBH 375,"De Souza,Marina Celly Martins R",Tues Fri,2:00 PM
+40353,PBH 376,"Patterson,Natasha  ",Mon Thurs ,9:30 AM
+40354,PBH 376,"Patterson,Natasha  ",Mon Thurs ,12:30 PM
+40370,PBH 379,"Wheatley,Virginia  ",Thurs ,5:30 PM
+40369,PBH 401,"Soya,Theresa  ",Tues ,5:30 PM
+40347,PBH 405,"Lazzaro,Livia  ",Tues ,8:30 PM
+40347,PBH 405,"Patterson,Natasha  ",Tues ,8:30 PM
+40347,PBH 405,"Seals,Brenda  ",Tues ,8:30 PM
+42103,PHY 103,"Pajer,Gary  ",Mon Wed ,7:30 PM
+42104,PHY 103,"Pajer,Gary  ",Mon ,5:30 PM
+42105,PHY 103,"Pajer,Gary  ",Wed ,5:30 PM
+42106,PHY 103,"Kanwal,Sarbmeet  ",Tues Fri,9:30 AM
+42107,PHY 103,"Kanwal,Sarbmeet  ",Tues ,11:00 AM
+42108,PHY 120,"Graham,Shannon  ",Mon Thurs ,9:30 AM
+42109,PHY 120,"Graham,Shannon  ",Mon ,11:00 AM
+42110,PHY 120,"Graham,Shannon  ",Thurs ,11:00 AM
+42111,PHY 120,"Spayd,Steven  ",Tues Thurs ,5:30 PM
+42112,PHY 120,"Spayd,Steven  ",Tues ,7:00 PM
+42113,PHY 120,"Spayd,Steven  ",Thurs ,7:00 PM
+42114,PHY 120,"Lacombe,Pierre  ",Mon Wed ,5:30 PM
+42115,PHY 120,"Lacombe,Pierre  ",Mon ,7:00 PM
+42116,PHY 120,"Lacombe,Pierre  ",Wed ,7:00 PM
+42117,PHY 162,"Lanz,Lauranne  ",Mon Thurs ,2:00 PM
+42118,PHY 162,"Lanz,Lauranne  ",Mon ,3:30 PM
+42119,PHY 162,"Lanz,Lauranne  ",Thurs ,3:30 PM
+42120,PHY 163,"Wickramasinghe,Wad Thulsi  ",Mon Thurs ,8:00 AM
+42121,PHY 163,"Wickramasinghe,Wad Thulsi  ",Mon ,9:30 AM
+42122,PHY 163,"Wickramasinghe,Wad Thulsi  ",Thurs ,9:30 AM
+42123,PHY 171,"Magee,Nathan  ",Tues Fri,11:00 AM
+42124,PHY 171,"Magee,Nathan  ",Tues ,1:30 PM
+42126,PHY 201,"Kalb,Michael  ",Mon Thurs ,11:00 AM
+42127,PHY 201,"Kalb,Michael  ",Mon ,12:30 PM
+42128,PHY 201,"Kalb,Michael  ",Thurs ,12:30 PM
+42129,PHY 201,"Shrestha,Kushal  ",Tues Thurs ,7:30 PM
+42130,PHY 201,"Shrestha,Kushal  ",Tues ,5:30 PM
+42131,PHY 201,"Shrestha,Kushal  ",Thurs ,5:30 PM
+42132,PHY 201,"Nesh,Nicholas  ",Tues Fri,3:30 PM
+42133,PHY 201,"Nesh,Nicholas  ",Tues ,1:30 PM
+42134,PHY 201,"Nesh,Nicholas  ",Fri,1:30 PM
+42150,PHY 202,"Nesh,Nicholas  ",Tues Fri,9:30 AM
+42151,PHY 202,"Nesh,Nicholas  ",Tues ,11:30 AM
+42152,PHY 202,"Nesh,Nicholas  ",Fri,11:30 AM
+42153,PHY 202,"Ochoa,Oscar  ",Mon Thurs ,11:00 AM
+42154,PHY 202,"Ochoa,Oscar  ",Mon ,12:30 PM
+42155,PHY 202,"Ochoa,Oscar  ",Thurs ,12:30 PM
+42156,PHY 202,"Troychansky,Vadim  ",Tues Thurs ,5:30 PM
+42157,PHY 202,"Troychansky,Vadim  ",Tues ,7:00 PM
+42158,PHY 202,"Troychansky,Vadim  ",Thurs ,7:00 PM
+42159,PHY 202,"Ward,Joseph  ",Mon Thurs ,2:00 PM
+42160,PHY 202,"Ward,Joseph  ",Thurs ,3:30 PM
+42161,PHY 202,"Ward,Joseph  ",Mon ,3:30 PM
+42162,PHY 202,"Darkhosh,Teymour  ",Mon Wed ,5:30 PM
+42163,PHY 202,"Darkhosh,Teymour  ",Mon ,7:00 PM
+42164,PHY 202,"Darkhosh,Teymour  ",Wed ,7:00 PM
+42172,PHY 204,"Capece,Angela  ",Tues Fri,11:00 AM
+42173,PHY 204,"Capece,Angela  ",Tues ,8:00 AM
+42174,PHY 220,"Graham,Shannon  ",Tues Fri,2:00 PM
+42175,PHY 220,"Graham,Shannon  ",Tues ,3:30 PM
+42176,PHY 299,"Capece,Angela  ",Wed ,11:00 AM
+42177,PHY 336,"Nguyen,Anh Tuan  ",Tues Fri,9:30 AM
+42178,PHY 356,"Nguyen,Anh Tuan  ",Mon Thurs ,9:30 AM
+42179,PHY 390,"Richards,Alan  ",Tues ,5:30 PM
+42180,PHY 401,"Ochoa,Oscar  ",Mon Thurs ,3:30 PM
+42181,PHY 422,"Wickramasinghe,Wad Thulsi  ",Mon Thurs ,12:30 PM
+42182,PHY 451,"Mcgee,David  ",Mon ,9:00 AM
+42183,PHY 451,"Mcgee,David  ",Thurs ,9:00 AM
+41925,SCI  99,"Leonard,Laurel  ",Wed ,11:00 AM
+41929,STA 115,"Wasserman,Eric H",Mon Wed ,7:30 PM
+41930,STA 115,"Ottman,Laird  ",Tues Thurs ,7:00 PM
+41931,STA 115,"Sharma,Deoki  ",Mon Thurs ,9:30 AM
+41932,STA 115,"Sharma,Deoki  ",Mon Thurs ,12:30 PM
+41933,STA 115,"Pangalos,George  ",Mon Wed ,6:00 PM
+41939,STA 115,"Pangalos,George  ",Mon Wed ,7:30 PM
+41941,STA 115,"Angelo,Mark  ",Tues Thurs ,5:30 PM
+41942,STA 115,"Angelo,Mark  ",Tues Thurs ,7:00 PM
+41943,STA 115,"Chen,Stacye  ",Tues Fri,9:30 AM
+41944,STA 115,"Chen,Stacye  ",Tues Fri,11:00 AM
+42359,STA 115,"Ottman,Laird  ",Tues Thurs ,5:30 PM
+41936,STA 215,"Navard,Sharon  ",Tues Fri,9:30 AM
+41937,STA 215,"Navard,Sharon  ",Tues Fri,11:00 AM
+41938,STA 215,"Stock,Gregory  ",Tues Fri,2:00 PM
+41934,STA 215,"Stock,Gregory  ",Mon Thurs ,2:00 PM
+41935,STA 215,"Stock,Gregory  ",Mon Thurs ,3:30 PM
+42362,STA 306,"Stock,Gregory  ",Tues Fri,11:00 AM
+42363,STA 307,"Ochs,Michael  ",Mon Thurs ,2:00 PM
+42361,STA 410,"Navard,Sharon  ",Tues Fri,2:00 PM
+42360,STA 498,"Ochs,Michael  ",Mon Thurs ,11:00 AM
+41649,TED 380,"Mulligan,James  ",Mon ,5:30 PM
+41650,TED 460,"Zrada,Melissa  ",Mon Thurs ,9:30 AM
+41651,TED 460,"Zrada,Melissa  ",Wed ,9:00 AM
+41652,TED 480,"Huffman,Tanner  ",Tues Fri,9:30 AM
+41660,TST 161,"Asper,Norman  ",Tues Fri,9:30 AM
+41659,TST 161,"Asper,Norman  ",Tues Fri,11:00 AM
+41655,TST 161,"Huffman,Tanner  ",Tues Fri,2:00 PM
+41658,TST 161,"Zrada,Melissa  ",Mon Thurs ,12:30 PM
+41657,TST 161,"Jennings,Thomas  ",Mon ,5:30 PM
+41656,TST 161,"Dec,Tara  ",Tues ,5:30 PM
+41661,TST 161,"Anderson,Christopher  ",Thurs ,5:30 PM
+41662,TST 161,"Anderson,Christopher  ",Wed ,5:30 PM

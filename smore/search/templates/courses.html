@@ -1,0 +1,20 @@
+ {% extends "base.html" %}
+
+{% block content %}
+<h3>Courses</h3>
+
+<div class="row">
+
+  {# icon and search-box #}
+  <div class="col-6 align-left">
+    <i id="search-icon" class="fas fa-search"></i>
+    <input id="user-input" placeholder="Search">
+  </div>
+
+  {# course section #}
+  <div id="replaceable-content" class="col-6">
+    {% include 'partial-courses.html' %}
+  </div>
+
+</div>
+{% endblock %}
