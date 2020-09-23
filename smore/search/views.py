@@ -1,3 +1,4 @@
+from django.db.models import Q
 from django.shortcuts import render
 from search.models import collegeCourse
 from django.template.loader import render_to_string
@@ -9,7 +10,12 @@ def course_view(request):
     url_param = request.GET.get("q")
 
     if url_param:
-        courses = collegeCourse.objects.filter(course_code__icontains=url_param)
+        courses = collegeCourse.objects.filter(
+            Q(class_id__icontains=url_param) | Q(course_code__icontains=url_param) |
+            Q(professor__icontains=url_param) | Q(day__icontains=url_param) |
+            Q(time__icontains=url_param)
+        )
+
     else:
         courses = collegeCourse.objects.all()
 

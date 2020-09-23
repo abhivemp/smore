@@ -2,7 +2,7 @@
 {% if courses %}
   <ul>
   {% for course in courses %}
-    <li>{{ course.course_code }}</li>
+    <li>{{ course.course_code }} {{course.professor}}</li>
   {% endfor %}
   </ul>
 {% else %}
